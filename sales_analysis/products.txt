@@ -1,0 +1,15 @@
+1|Rice 1kg|2500.00
+2|Sugar 1kg|1800.00
+3|Cassava Flour 1kg|2000.00
+4|Samosa Chicken|700.00
+5|Samosa Beef|500.00
+6|Irish Potatoes 1kg|1000.00
+7|Cooking Oil 1L|3500.00
+8|Fresh Milk 1L|1200.00
+9|Bread Loaf|1000.00
+10|Eggs Tray|6000.00
+11|Black Tea 100g|1500.00
+12|Table Salt 1kg|800.00
+13|Laundry Soap Bar|1000.00
+14|Bottled Water 1.5L|800.00
+15|Fruit Juice 1L|2500.00
