@@ -1,0 +1,55 @@
+============================================
+          SYSTEM HEALTH REPORT
+============================================
+
+Generated: 26/11/2026 20:01:45
+Hostname: Helens-Mac-Pro.local
+Operating System: Darwin
+Kernel Version: 25.4.0
+System Uptime: 20:01  up 4 days, 39 mins, 1 user, load averages: 6.59 3.80 3.27
+
+CPU UTILIZATION
+--------------------------------------------
+Current CPU Usage: 37.00%
+
+PROCESSES USING THE MOST CPU
+--------------------------------------------
+  PID USER             COMM              %CPU %MEM     ELAPSED
+73002 MAC              /usr/libexec/due  90.1  0.5    21:26:44
+84643 MAC              /System/Library/  40.7  0.2       00:01
+57390 MAC              /Applications/CL   9.8  6.3 02-21:25:02
+    1 root             /sbin/launchd      8.5  0.2 04-00:39:00
+  417 _windowserver    /System/Library/   3.3  0.4 04-00:38:29
+79873 MAC              /System/Library/   3.2  0.1    06:56:29
+79867 MAC              /System/Library/   3.1  0.1    06:56:30
+81251 MAC              /System/Library/   2.4  0.1    03:00:44
+72579 MAC              /System/Library/   1.6  0.1    21:27:29
+75963 MAC              /Applications/Wh   1.4  0.7    11:33:57
+
+MEMORY UTILIZATION
+--------------------------------------------
+Total Memory: 8192 MB
+Used Memory: 6667 MB
+Available Memory: 1525 MB
+Memory Utilization: 81.38%
+
+DISK UTILIZATION
+--------------------------------------------
+Filesystem        Size    Used   Avail Capacity  Mounted on
+/dev/disk3s3s1   460Gi    16Gi    10Gi    61%    /
+devfs            204Ki   204Ki     0Bi   100%    /dev
+/dev/disk3s6     460Gi   7.0Gi    10Gi    41%    /System/Volumes/VM
+/dev/disk3s4     460Gi    15Gi    10Gi    60%    /System/Volumes/Preboot
+/dev/disk3s2     460Gi   1.0Gi    10Gi     9%    /System/Volumes/Update
+/dev/disk1s2     500Mi   6.0Mi   360Mi     2%    /System/Volumes/xarts
+/dev/disk1s1     500Mi    65Mi   360Mi    16%    /System/Volumes/iSCPreboot
+/dev/disk1s3     500Mi   3.6Mi   360Mi     1%    /System/Volumes/Hardware
+/dev/disk3s1     460Gi   408Gi    10Gi    98%    /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%    /System/Volumes/Data/home
+/dev/disk5s1      17Gi    16Gi   444Mi    98%    /Library/Developer/CoreSimulator/Volumes/iOS_23F77
+/dev/disk2s1     5.0Gi   2.1Gi   2.9Gi    42%    /System/Volumes/Update/SFR/mnt1
+/dev/disk3s3     460Gi    16Gi    10Gi    61%    /System/Volumes/Update/mnt1
+
+============================================
+                END OF REPORT
+============================================
