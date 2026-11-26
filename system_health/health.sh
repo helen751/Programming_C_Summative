@@ -877,8 +877,8 @@ generate_health_report() {
 
     if [[ "$report_directory" == "~" ]]; then
         report_directory="$HOME"
-    elif [[ "$report_directory" == ~/* ]]; then
-        report_directory="$HOME/${report_directory#~/}"
+    elif [[ "$report_directory" == "~/"* ]]; then
+        report_directory="$HOME/${report_directory#\~/}"
     fi
 
     if [[ ! -d "$report_directory" ]]; then
