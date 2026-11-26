@@ -1,0 +1,6 @@
+Farmers use connected sensors to monitor soil and weather conditions.
+IoT technology can report moisture levels without requiring a field visit.
+The same IoT platform can control irrigation when the soil becomes dry.
+Collected readings help farmers understand how crops respond to changing conditions.
+An iot warning can also identify equipment that requires maintenance.
+These systems work best when devices continue operating during network interruptions.

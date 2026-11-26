@@ -184,3 +184,28 @@
 [26/11/2026 20:05:15] Terminated process with PID 84739 after a process search.
 [26/11/2026 20:05:15] Terminated process with PID 84773 after a process search.
 [26/11/2026 20:05:15] Failed to terminate PID 84791.
+[26/11/2026 20:25:57] Started the system health monitoring application.
+[26/11/2026 20:27:56] CPU warning: usage was 18.80% and threshold was 15%.
+[26/11/2026 20:29:01] Displayed system information.
+[26/11/2026 20:30:07] Memory warning: usage was 82.15% and threshold was 80%.
+[26/11/2026 20:31:29] Disk warning: /dev/disk3s3s1 was 59% full.
+[26/11/2026 20:31:29] Disk warning: devfs was 100% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk3s6 was 35% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk3s4 was 58% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk3s1 was 98% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk5s1 was 98% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk2s1 was 42% full.
+[26/11/2026 20:31:29] Disk warning: /dev/disk3s3 was 59% full.
+[26/11/2026 20:33:26] Displayed running processes.
+[26/11/2026 20:34:00] Searched for process: 417.
+[26/11/2026 20:34:25] Blocked termination attempt for PID 417.
+[26/11/2026 20:34:43] Searched for process: library.
+[26/11/2026 20:35:10] No process was found for: word.
+[26/11/2026 20:35:12] Displayed running processes.
+[26/11/2026 20:36:34] No process was found for: Microsoft Word.
+[26/11/2026 20:37:43] Searched for process: sleep.
+[26/11/2026 20:37:58] Terminated process with PID 88934 after a process search.
+[26/11/2026 20:37:58] Terminated process with PID 88935 after a process search.
+[26/11/2026 20:37:58] Terminated process with PID 88936 after a process search.
+[26/11/2026 20:37:58] Terminated process with PID 88937 after a process search.
+[26/11/2026 20:39:37] Generated system health report: Downloads/system_health_20261126_203936.txt.

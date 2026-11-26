@@ -1,0 +1,6 @@
+IoT devices are becoming common in smart homes and offices.
+An IoT sensor can measure temperature, movement, and air quality.
+The collected information is sent to a central monitoring platform.
+Reliable networks are important when many iot devices communicate together.
+Security must be considered before an IOT device is connected to the internet.
+Good access control protects the device and the information it collects.

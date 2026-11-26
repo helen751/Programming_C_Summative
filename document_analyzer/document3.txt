@@ -1,0 +1,6 @@
+Hospitals manage many devices that produce important information.
+Some equipment reports measurements directly to secure clinical systems.
+Doctors and nurses use the information when monitoring patients.
+Strong authentication helps prevent unauthorized access to medical devices.
+Regular software updates reduce security risks and improve reliability.
+This sample document intentionally contains no instance of the search term.
