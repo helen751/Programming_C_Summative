@@ -4,10 +4,11 @@
 
 Input File: document1.txt
 Search Keyword: IoT
-Total Lines Processed: 6
-Total Keyword Occurrences: 4
-Matching Lines: 4
-Matching Line Numbers: 1, 2, 4, 5
-Processing Status: Successful
+Total Lines Processed: 0
+Total Keyword Occurrences: 0
+Matching Lines: 0
+Matching Line Numbers: None
+Processing Status: Failed
+Error: Input file could not be opened: No such file or directory
 
 ============================================
