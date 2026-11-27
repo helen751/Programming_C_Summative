@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello, World!\n");
+    printf("Welcome to Helen's Project. Check each folder for any project to run!\n");
     return 0;
 }
